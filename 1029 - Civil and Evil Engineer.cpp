@@ -1,10 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-#define           pii                pair < double, double>
 #define           pb                 push_back
-
-map<pii,int>mp;
 
 struct edgeStructure
 {
